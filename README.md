@@ -21,7 +21,7 @@ Head over to [https://skillworx.herokuapp.com/](https://skillworx.herokuapp.com)
 
 ## Status
 
-Still under development.
+Under development
 
 ## Authors
 
