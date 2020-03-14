@@ -7,7 +7,7 @@
 ![MIT License](https://img.shields.io/github/license/dezrogers/skillworx?style=flat-square)
 
 ## Overview
-The aim of this project was to build something within the span of a week that we thought would be useful and challenging, and also met all of the requirements for our final project at a Full Stack Coding Bootcamp. It was meant to be the culmination of all of the skills we learned over course of 12 weeks.
+The aim of this project was to build something within the span of a week that we thought would be useful and challenging, and also met all of the requirements for our final project at a Full Stack Coding Bootcamp. It was meant to be the culmination of all of the skills we learned over the course of 12 weeks.
 
 Head over to [https://skillworx.herokuapp.com/](https://skillworx.herokuapp.com) and sign up!
 
